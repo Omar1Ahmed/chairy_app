@@ -1,0 +1,95 @@
+{
+  "@@locale": "ar",
+  "home": "الصغحة الرئيسية",
+  "HomeHeadline": "اجعل ديكورك الداخلي أكثر بساطة وحداثة",
+  "HomeHeadline2": "حوّل غرفتك باستخدام بانتو إلى مساحة أكثر بساطة وحداثة بسهولة وسرعة",
+  "Menu": "القائمة",
+  "Language": "اللغة",
+  "Theme" : "السمة",
+  "English": "الإنجليزية",
+  "Arabic": "العربية",
+  "darkMode": "الوضع الداكن",
+  "lightMode": "الوضع الفاتح",
+
+  "connectionTimeout": "انتهت مهلة الاتصال. يرجى التحقق من اتصالك بالإنترنت أو المحاولة لاحقاً.",
+  "sendTimeout": "انتهت مهلة الطلب. يرجى المحاولة مرة أخرى.",
+  "connectionError": "لا يوجد اتصال بالإنترنت. يرجى التحقق من الاتصال والمحاولة مرة أخرى.",
+  "badRequest": "طلب غير صالح. يرجى التحقق من البيانات التي تقوم بإرسالها.",
+  "unauthorized": "غير مصرح. يرجى تسجيل الدخول مرة أخرى.",
+  "notFound": "لم يتم العثور على المورد المطلوب.",
+  "serverError": "خطأ في الخادم. يرجى المحاولة لاحقاً.",
+  "requestCancelled": "تم إلغاء الطلب. هل ترغب في المحاولة مرة أخرى؟",
+  "receiveTimeout": "استغرق الخادم وقتاً طويلاً للرد. يرجى المحاولة مرة أخرى.",
+  "unexpectedError": "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى.",
+  "retry": "إعادة المحاولة",
+  "noInternetConnection": "لا يوجد اتصال بالإنترنت. يرجى التحقق من الاتصال والمحاولة مرة أخرى.",
+  "requestFailed": "فشل الطلب. هل ترغب في المحاولة مرة أخرى؟",
+  "loginExpired": "انتهت جلسة العمل. يرجى تسجيل الدخول مرة أخرى.",
+  "ourCategories": "اقسامنا",
+  "cart" : "السلة",
+  "categories" : "الاقسام",
+"moreInfo" : "المزيد من المعلومات",
+  "NoCategories" : "لا يوجد اقسام",
+  "addToCart" : "إضافة إلى السلة",
+  "success": "نجاح",
+  "addedToCartSuccessfully" : "تم إضافة المنتج بنجاح",
+  "yourCart": "سلة التسوق الخاصة بك",
+  "reviewYourItems": "راجع المنتجات الخاصة بك",
+  "deletedSuccessfully": "تم حذف المنتج بنجاح",
+  "totalPrice" : "السعر الكلي",
+  "placeOrder" : "قم بالطلب",
+  "yourCartIsEmpty": "سلة التسوق الخاصة بك فارغة",
+  "ChooseItems" : "قم باختيار المنتجات اولاً",
+  "wolcomeToYourStore" : "مرحبا بك في متجرك",
+  "bringingYouStyleHome" : "نحن نقدم لك تصميمك الخاص",
+  "firstName" : "الاسم الاول",
+  "lastName" : "الاسم الاخير",
+  "email" : "البريد الالكتروني",
+  "password" : "كلمة المرور",
+  "address": "العنوان",
+  "city": "المدينة",
+  "buildingNumber": "رقم المبنى",
+  "signUp" : "انشاء حساب",
+  "signIn" : "تسجيل الدخول",
+  "YourCustomerDataForTheOrder" : "بيانات العميل للطلب",
+  "next": "التالى",
+  "streetName": "اسم الشارع",
+  "selectPaymentMethod": "حدد طريقة الدفع",
+  "error": "خطأ",
+  "choosePaymentMethod": "حدد طريقة الدفع",
+  "cardPayment": "بطاقة الدفع",
+  "paypalPayment": "باي بال",
+
+  "shoppingCartItems": "منتجات سلة التسوق ({count})",
+  "@shoppingCartItems": {
+    "description": "Shows how many items are in the user's shopping cart",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "productsAddedToCartSuccessfully": "تم اضافة المنتجات بنجاح",
+  "orderPlacedSuccessfully": "تم الطلب بنجاح",
+  "placingOrder": "جاري الطلب",
+  "addingProductsLoading" : "جاري اضافة المنتجات",
+  "loading" : "جاري التحميل",
+  "selectCategoryFirst": "اختر قسم أولاً",
+
+  "NotificationBody": "({count}) من الـ({product}) تم إضافته في السلة الآن!!",
+  "@NotificationBody": {
+    "description": "Notification Order Body and quantity",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "product": {
+        "type": "String"
+      }
+    }
+  },
+
+  "newOrder": "طلب جديد",
+  "notificationPermissionDenied": "تم رفض الاذن للتنبيهات"
+
+}

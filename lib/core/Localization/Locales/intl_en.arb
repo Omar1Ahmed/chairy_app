@@ -1,0 +1,98 @@
+{
+  "@@locale": "en",
+  "home": "Home",
+  "HomeHeadline": "Make Your Interior More Minimalistic & Modern",
+  "HomeHeadline2": "Turn your room with panto into a lot more minimalist and modern with ease and speed",
+  "Menu": "Menu",
+  "Language": "Language",
+  "Theme" : "Theme",
+  "English": "English",
+  "Arabic": "Arabic",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+
+  "connectionTimeout": "Connection timed out. Please check your internet connection or try again later.",
+  "sendTimeout": "Request timed out. Please try again.",
+  "connectionError": "No internet connection. Please check your connection and try again.",
+  "badRequest": "Bad request. Please check the data you're submitting.",
+  "unauthorized": "Unauthorized. Please log in again.",
+  "notFound": "The requested resource could not be found.",
+  "serverError": "Server error. Please try again later.",
+  "requestCancelled": "The request was cancelled. Would you like to retry?",
+  "receiveTimeout": "The server took too long to respond. Please try again.",
+  "unexpectedError": "An unexpected error occurred. Please try again.",
+  "retry": "Retry",
+  "noInternetConnection": "No internet connection. Please check your connection and try again.",
+  "requestFailed": "Request failed. Would you like to retry?",
+  "loginExpired": "Your session has expired. Please log in again.",
+  "ourCategories": "Our Categories",
+  "cart" : "Cart",
+  "categories" : "Categories",
+  "moreInfo" : "More Info",
+  "NoCategories" : "No Categories",
+  "addToCart" : "Add to Cart",
+  "success": "Success",
+  "addedToCartSuccessfully" : "Added to cart successfully",
+  "yourCart": "Your Cart",
+  "reviewYourItems": "Review your items",
+  "deletedSuccessfully": "Deleted successfully",
+  "totalPrice": "Total Price",
+  "placeOrder": "Place Order",
+  "ChooseItems" : "Choose Items First!!!!",
+  "yourCartIsEmpty" : "Your cart is empty",
+  "wolcomeToYourStore" : "Welcome to your store",
+  "bringingYouStyleHome" : "Bringing you style home",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "Email",
+  "password": "Password",
+  "address": "Address",
+  "city": "City",
+  "buildingNumber": "Building Number",
+  "signUp": "Sign Up",
+  "signIn": "Sign In",
+  "registerSuccessfully": "Register successfully",
+  "loginSuccessfully": "Login successfully",
+  "YourCustomerDataForTheOrder": "Your customer data for the order",
+  "next": "Next",
+  "streetName": "Street Name",
+  "selectPaymentMethod": "Select Payment Method",
+  "error": "Error",
+  "choosePaymentMethod": "Choose Payment Method",
+  "cardPayment": "Card Payment",
+  "paypalPayment": "PayPal Payment",
+
+
+  "shoppingCartItems": "Your shopping cart ({count})",
+  "@shoppingCartItems": {
+    "description": "Shows how many items are in the user's shopping cart",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "productsAddedToCartSuccessfully": "Products added to cart successfully",
+  "orderPlacedSuccessfully": "Order placed successfully",
+  "placingOrder": "Placing order...",
+  "addingProductsLoading" : "Adding products To Cart...",
+  "loading" : "Loading...",
+  "selectCategoryFirst": "Select a Category First",
+
+  "NotificationBody": "({count}) of ({product}) just Added to Cart",
+  "@NotificationBody": {
+    "description": "Notification Order Body and quantity",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "product": {
+        "type": "String"
+      }
+    }
+  },
+
+  "newOrder": "New Order",
+  "notificationPermissionDenied": "Notification permission denied. Please allow notifications."
+}
